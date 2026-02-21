@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "銀河録",
+  "base_artist": "ウォルピスカーター",
+  "createdAt": "2026-02-21T09:35:47.290715Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "銀河録",
+      "artist": "はるまきごはん",
+      "has_synced": true,
+      "path": "select/01_銀河録_はるまきごはん.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "銀河録",
+      "artist": "神田沙也加",
+      "has_synced": false,
+      "path": "select/02_銀河録_神田沙也加.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "銀河録",
+      "artist": "Harumakigohan",
+      "has_synced": true,
+      "path": "select/03_銀河録_Harumakigohan.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "銀河録",
+      "artist": "はるまきごはん feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/04_銀河録_はるまきごはん_feat._初音ミク.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "銀河録",
+      "artist": "ウォルピスカーター",
+      "has_synced": false,
+      "path": "select/pl_01_銀河録_ウォルピスカーター.txt"
+    }
+  ]
+}
